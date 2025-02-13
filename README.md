@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# 🌝 Video Call App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and responsive video calling application.
 
-## Available Scripts
+## 🚀 Features
+- 🎥 **Join a video call** using a unique Room ID.
+- 🎨 **Modern and responsive UI** for a seamless experience.
+- 🔗 **Share meeting links** easily with others.
+- 
+## 👥 Installation
 
-In the project directory, you can run:
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/your-username/video-call-app.git
+   ```
+2. **Navigate to the project directory**  
+   ```sh
+   cd video-call-app
+   ```
+3. **Install dependencies**  
+   ```sh
+   npm install
+   ```
+4. **Start the application**  
+   ```sh
+   npm start
+   ```
 
-### `npm start`
+## 🎯 Usage
+1. Open the app in your browser.
+2. Enter a **Room ID** and click **"Join Room"**.
+3. Share the meeting link with others to join.
+4. Enjoy seamless **1-on-1 video calls**!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🖼️ Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/user-attachments/assets/bf5fecbb-3e8a-4a42-9f85-0b309aaa1e90)
 
-### `npm test`
+![image](https://github.com/user-attachments/assets/5879b706-6af6-4f3f-8733-6b74d1a82306)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/user-attachments/assets/cee34d8b-7e8a-4f69-b55f-a21e6b42660c)
 
-### `npm run build`
+![image](https://github.com/user-attachments/assets/de508204-fd72-4537-9e1d-cc5e23da1573)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/user-attachments/assets/13a661a9-f546-465a-b775-c5d4335b52df)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/user-attachments/assets/95eeb71f-b454-4797-b92c-6baaf1af6701)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/user-attachments/assets/0180cc58-abd2-45b6-8942-ef0138185fc5)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 💜 License
+This project is open-source and available under the **MIT License**.
 
-### Code Splitting
+---
+Made with ❤️ by [Sanit Prakash](https://github.com/SANITPRAKASH)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
